@@ -5,8 +5,8 @@
     <description>This blog charts my adventures playing and recording drums in my garden studio.</description>
     <link>http://therhythmof.life/</link>
     <atom:link href="http://therhythmof.life/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Oct 2017 15:56:10 +0100</pubDate>
-    <lastBuildDate>Thu, 19 Oct 2017 15:56:10 +0100</lastBuildDate>
+    <pubDate>Thu, 19 Oct 2017 16:01:56 +0100</pubDate>
+    <lastBuildDate>Thu, 19 Oct 2017 16:01:56 +0100</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
 
     
@@ -45,7 +45,7 @@
       </item>
     
       <item>
-        <title>Migrating my blog platform</title>
+        <title>Migrating My Blog Platform</title>
         <description>&lt;p&gt;Up until now I have hosted my blog on the Ghost platform. I paid a monthly subscription (billed annually) to use their service to avoid having to install and manage a blog platform myself. Ghost is a joy to use but the cost occurs whether I publish 100 posts a year or zero posts, so it’s clearly easier to justify if I’m posting regularly. But I don’t publish content regularly and with my subscription renewal coming up in December, I decided it’s time to take the plunge and move my blog to a cheaper platform. Enter Jekyll!&lt;/p&gt;
 
 &lt;h2 id=&quot;what-are-ghost-and-jekyll&quot;&gt;What are Ghost and Jekyll?&lt;/h2&gt;
